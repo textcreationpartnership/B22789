@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Tolands's Clito dissected and Fuller's Plain proof of the true mother of the pretended Prince of Wales made out to be no proof / in two letters from a gentleman in the country to his friend in London.</title>
+            <author>S. F.</author>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22789</idno><idno type="EEBO-CITATION">14907324</idno>
+  <idno type="VID">206126</idno>
+  <idno type="EEBO-PROQUEST">2240951188</idno>
+  
+            <idno type="STC">Wing F60</idno>
+            <idno type="OCLC">14907324</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1569:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Tolands's Clito dissected and Fuller's Plain proof of the true mother of the pretended Prince of Wales made out to be no proof / in two letters from a gentleman in the country to his friend in London.</title>
+                  <author>S. F.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Each part signed: S.F.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Toland, John, 1670-1722. --  Clito.</term>
+               <term type="personal_name">Fuller, William, 1670-1717? --  Plain proof of the true father and mother of the pretended Prince of Wales.</term>
+               <term type="geographic_name">Great Britain --  History --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206126:1"/>
+            <pb facs="tcp:206126:2"/>
+            <p>
+               <pb facs="tcp:206126:2"/> Mr. <hi>TOLAND</hi>'s CLITO DISSECTED.</p>
+            <p>AND <hi>FULLER</hi>'s Plain Proof OF THE <hi>True Mother</hi> OF THE Pretended PRINCE of <hi>WALES.</hi>
+            </p>
+            <p>Made out to be no <hi>PROOF.</hi>
+            </p>
+            <p>In two Letters from a Gentleman in the Country to his Friend in <hi>London.</hi>
+            </p>
+            <q>
+               <hi>—Par nobile Fratrum.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1700.</p>
+            <p>
+               <hi>Price Sixpence.</hi>
+            </p>
+            <pb facs="tcp:206126:3"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206126:3"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <p>THE two Pamphlets which fall under the Censure of my Friend, who has oblig'd me with the following <hi>Remarks,</hi> having made no little noise, and met with a kinder Reception than either of 'em deserv'd, I was persuaded to send these two <hi>Letters</hi> abroad, in order to take off from the Prejudice they might have giv'n several
+<pb facs="tcp:206126:4"/> against Truth. Both of 'em are for imposing upon our Be<g ref="char:EOLhyphen"/>lief, tho' they endeavour to car<g ref="char:EOLhyphen"/>ry on the Cheat by different ways; and as the first makes it his Endeavour to persuade us to accept of new Schemes in Matters of Religion, so the last spends his Time in forg<g ref="char:EOLhyphen"/>ing new Discoveries in Af<g ref="char:EOLhyphen"/>fairs of States. Mr. <hi>Toland</hi> perhaps may take it amiss that he is coupl'd with <hi>Fuller;</hi> and that a Man of his Philosophy and Poetry, should be <hi>joyn'd</hi> with a Person of such unheard of Stupidity: but my Friend must account for that, he have<g ref="char:EOLhyphen"/>ing sent 'em to me as the Rea<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:206126:4"/> sees 'em. Lest therefore he should be misunderstood, as to his Principles of Govern<g ref="char:EOLhyphen"/>ment, tho' he bas taken the right side in defending it a<g ref="char:EOLhyphen"/>gainst one that would pull it down, by destroying its Foun<g ref="char:EOLhyphen"/>dation, the best of Religions, I think my self oblig'd to ac<g ref="char:EOLhyphen"/>quaint the World, he's as great a Foe to Popery as any sanctified Member whatsoever, of Hall or Parlour; and is so far from being against his Coun<g ref="char:EOLhyphen"/>try's Interest in its present E<g ref="char:EOLhyphen"/>stablishment, that he thinks himself much more happy in his Obedience to His Sacred Majesty K. <hi>William,</hi> than if
+<pb facs="tcp:206126:5"/> S. <hi>Germains</hi> were transplant<g ref="char:EOLhyphen"/>ed to <hi>Kensington,</hi> and the little Gentleman in <hi>France</hi> were to kill his <hi>Stags</hi> on our Conti<g ref="char:EOLhyphen"/>nent, as they'd make us believe He slaughters his <hi>Boars</hi> on their's. And tho' he may be thought to aim at that which is no Compliment to his present Superiors, whom God has set over him, I'll pawn my Life for him, he'd be as active in de<g ref="char:EOLhyphen"/>fence of his King and Country, as the best Man of 'em all that exclaims against Jesuits, and raises Arguments against the Infallibility of the Triple-Crown, should there be occa<g ref="char:EOLhyphen"/>sion for it. The Religion he
+<pb facs="tcp:206126:5"/> has been bred up in, is the Church of <hi>England</hi> in its purest Doctrines, and if he has not hitherto acted altogether as becomes his Holy Profession, he takes this Resolution for the future of opposing those who shall endeavour to set up new Religions, and those who have the Impudence to give their Votes for none. The Expres<g ref="char:EOLhyphen"/>sions he makes use of may look somewhat harsh, but he thinks it an usage good enough for an <hi>Atheist,</hi> and an Entertain<g ref="char:EOLhyphen"/>ment not improper to treat a <hi>Lyar</hi> with.</p>
+            <pb facs="tcp:206126:6"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:206126:6"/>
+            <head>Mr. <hi>TOLAND</hi>'s CLITO Examin'd, IN A LETTER To a FRIEND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Poem you sent me, reach'd <hi>Astrop</hi> on <hi>Thursday</hi> last, and hav<g ref="char:EOLhyphen"/>ing a sight of Mr. <hi>Toland</hi>'s Name in the Preface, I immediately fell to work, to see what an Author, who had made such a Bustle in the World had ob<g ref="char:EOLhyphen"/>lig'd us with. The Publisher, who with<g ref="char:EOLhyphen"/>out doubt is Mr. <hi>Toland</hi> himself, for I can't suppose so ill a Man can have any Friend, begin's with the same Introduction as other Pretenders to the Press, that it had been <hi>handed about in Manuscript,</hi> that several Copies had crept abroad, and <hi>un<g ref="char:EOLhyphen"/>derwent different Characters and Judgments;</hi> and therefore to give People a due light into the <hi>Principles</hi> which some Men count<g ref="char:EOLhyphen"/>ed
+<pb n="2" facs="tcp:206126:7"/>
+               <hi>pernicious,</hi> he had sent it abroad in order to recover 'em from the Prejudice such and such Misrepresentations might have given 'em. I conclude with him indeed, that <hi>Poetry is not his Business;</hi> and I am sure <hi>His</hi> at present can be no Body's <hi>Diversion</hi> but his <hi>own;</hi> tho' I could wish he would rather divert himself that way, than publish <hi>OCEANAS,</hi> and write Panegyricks on <hi>Milton;</hi> and give us the <hi>Lives</hi> and <hi>Characters</hi> of the worst of Men, in order to debauch us into the <hi>I<g ref="char:EOLhyphen"/>mitation</hi> of 'em. But I can't but wonder at his way of conveying the Knowledge of his Humility to us; <hi>He never was heard to value himself for any thing in Verse beyond a Song,</hi> which in my Opi<g ref="char:EOLhyphen"/>nion, is, he had no mean Sentiments of his Lyrick Poetry. Without doubt his Mistress <hi>Victorina,</hi> who has had many a lamentable Ditty from him, can tell us whether he reaches up to the Perfections of the incomparable <hi>Motteux,</hi> or bears any Resemblance to the Character of the Prince of Sonnet-Makers, Mr. <hi>Durfey.</hi> As for the Name of the Poem, how he comes to call it <hi>CLITO,</hi> or, <hi>the Force of Eloquence,</hi> when he <hi>Himself,</hi> not his pretended <hi>Friend,</hi> act's the <hi>Orator,</hi> I know not, and it looks something like a Mistake. Had he given it the Heathenish Name of <hi>TOLAND,</hi> or
+<pb n="3" facs="tcp:206126:7"/>
+               <hi>ADEISIDEMON,</hi> I am apt to think this abominable Issue of his Brain would have had a more significant Apellation. And tho' <hi>CLITO</hi> be too good a Name for a Person who has any Intimacy with a Man of his Character, Yet I must joyn with him in approving his Choice of <hi>ADEI<g ref="char:EOLhyphen"/>SIDEMON</hi> for himself, which is in down-right <hi>English</hi> (not Unsuperstitious, as he terms it) but <hi>one that fears neither God nor Devil.</hi>
+            </p>
+            <p>Having got rid of the Preface, it is but necessary we fall into the <hi>Poem;</hi> and the first thing worth Observation here, is the Character of his Familiar, and his Request,</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Clito</hi> the Wise, the Generous and Good,</l>
+                  <l>Better than whom none ever understood</l>
+                  <l>Or Things or Words, would yet distinctly know,</l>
+                  <l>How far the force of Eloquence could go</l>
+                  <l>To teach Mankind those Truths which they Mistake,</l>
+                  <l>And who the noble Task durst undertake.</l>
+               </lg>
+            </q>
+            <p>We have some Reason to question the truth of this Gentleman's Character from the Company he keeps, but grant him what we believe he is not, it adds to our Author's mistakes, to m<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e him un<g ref="char:EOLhyphen"/>derstand so well, and yet desire to be in<g ref="char:EOLhyphen"/>form'd. In my Opinion, <hi>Adeisidemon</hi> ought to have made the Question, and
+<pb n="4" facs="tcp:206126:8"/>
+               <hi>Clito</hi> to have resolv'd it; but 'tis not the first time Mr. <hi>Toland</hi> has undertaken to teach his Superiours, and instruct those who had more Knowledge than himself. But to begin with our Man of Eloquence.</p>
+            <q>
+               <lg>
+                  <l>As furious Winds sweep down what e're resists,</l>
+                  <l>So sball my Tongue perform what e're it lists,</l>
+                  <l>With large impetuous Floods of Eloquence</l>
+                  <l>Tickle the Fancy and bewitch the Sence,</l>
+                  <l>Make what it will the justest Cause appear.</l>
+                  <l>And what's perplext or dark, look bright and clear.</l>
+               </lg>
+            </q>
+            <p>Let me tell you, Sir, this promise of his is enough to raise our Expectations, and make us hope to have the whole My<g ref="char:EOLhyphen"/>steries of Nature unfolded. But Mr. <hi>To<g ref="char:EOLhyphen"/>land</hi> has a natural Aversion for Mysteries, and is so far from endeavouring to set perplex'd or dark things in the light, that the thought of our Saviour Incarna<g ref="char:EOLhyphen"/>tion is enough to make him Blaspheme a<g ref="char:EOLhyphen"/>gainst the Being that caus'd it, and the mention of the Resurrection, to make him give the Lye to that Omnipotence that has ordain'd it. And tho' he may be car<g ref="char:EOLhyphen"/>ry'd away in the Opinion of himself, that he can make which side he favours most, have the Advantage, yet if he's no better Orator than his Poetry shews him to be, he'll shoot wide of the Mark.</p>
+            <q>
+               <lg>
+                  <pb n="5" facs="tcp:206126:8"/>
+                  <l>The fate of Beings and the Hopes of Men</l>
+                  <l>Shall be, what pleases my creating Pen.</l>
+               </lg>
+            </q>
+            <p>A Rant indeed, he might well call himself <hi>Almanzor</hi> in the <hi>Preface,</hi> when he pretends to the Attribute of the Al<g ref="char:EOLhyphen"/>mighty in the <hi>Poem,</hi> and may pro<g ref="char:EOLhyphen"/>perly give his the name of a <hi>Creating Pen,</hi> since it gives Being to such unheard of Impieties.</p>
+            <q>
+               <lg>
+                  <l>Then why should Men to die have so great fear?</l>
+                  <l>Though noughts Immortal, all Eternal are.</l>
+               </lg>
+            </q>
+            <p>Now the Fiend begins to shew his Cloven Foot, and puts off his Disguise, and disuades Men from the Fears of Death by saying nothing in 'em is <hi>Immortal,</hi> and yet every part which composes their Humane structure <hi>Eternal. Homo frontis audacis<g ref="char:EOLhyphen"/>simae!</hi> At this time of day to preach up the Doctrine of <hi>Mundus est Aeternus,</hi> when the Author of All Aeternity has said, it should not, and to dare to affirm the Soul to be mortal, when the Apprehensions of its being not capable of dying is the only dissuasive from doing ill, and mak<g ref="char:EOLhyphen"/>ing us give a loose to our Lusts, like the Beasts which perish.</p>
+            <q>
+               <lg>
+                  <pb n="6" facs="tcp:206126:9"/>
+                  <l>Nature to me appears in no disguise;</l>
+                  <l>Nor can one Attom scape my prying Eyes.</l>
+               </lg>
+            </q>
+            <p>If this, or the Mighty feats that went before, is the Business of an Orator, I know nothing of the Matter: a <hi>Cicero</hi> may indeed harangue upon the investi<g ref="char:EOLhyphen"/>gators of such hidden Truth's, but an <hi>Aristotle</hi> or a <hi>Cartesius</hi> must find 'em.</p>
+            <q>
+               <lg>
+                  <l>O Glorious Liberty! For Thee I'll prove,</l>
+                  <l>The firmest Patron that e're Tongue did move.</l>
+               </lg>
+            </q>
+            <p>Liberty is the Cloak He makes use of, to enslave us, and bring us under the Do<g ref="char:EOLhyphen"/>minion of <hi>Five Hundred</hi> Kings, when the Constitution of our Happiness con<g ref="char:EOLhyphen"/>sists in being govern'd by <hi>One.</hi> But He may move His Tongue long enough be<g ref="char:EOLhyphen"/>fore his <hi>Prosaick Poetry</hi> can lead us into the mistake of making Chains for our selves, and seeking imaginary good be<g ref="char:EOLhyphen"/>fore that which is real.</p>
+            <q>
+               <lg>
+                  <l>Their Warlike Troops I shall with Ease Disband,</l>
+                  <l>And conquer those who all besides Command;</l>
+                  <l>I've known a Senate with some Magick Words,</l>
+                  <l>To Forks and Spades transform their bloody Swords.</l>
+               </lg>
+            </q>
+            <p>Certainly He fancy's himself to be Mr. <hi>Tr—d,</hi> and that He wrote the Argu<g ref="char:EOLhyphen"/>ment against the Standing Army; but
+<pb n="7" facs="tcp:206126:9"/> the World is wiser than to think any such thing, as knowing He was picking holes in the Skins of the <hi>Fathers,</hi> when the Par<g ref="char:EOLhyphen"/>liament were saving <hi>Theirs</hi> by Disband<g ref="char:EOLhyphen"/>ing the Standing Troops. However, he lik'd the Fact, He might have omitted the Commendation of it for the sake of a certain Gentleman, whose Character He runs into some time after.</p>
+            <q>
+               <lg>
+                  <l>Restore the Nation to its perfect Health,</l>
+                  <l>Then Pow'r usurpt, destroy, &amp; form a Commonwealth.</l>
+               </lg>
+            </q>
+            <p>The Nation is healthy enough without his Purges, and he may have occasion perhaps for Catharticks himself, after he has dabled a little longer with Madam <hi>Victorina.</hi>
+            </p>
+            <p>As for the usurp'd Power he talks of, I don't believe King <hi>William</hi> (tho' he has the ill Manners to liken him to <hi>Brutus)</hi> will give him leave to destroy it, or per<g ref="char:EOLhyphen"/>mit him to form what 'tis every Mo<g ref="char:EOLhyphen"/>narch's interest to joyn against.</p>
+            <q>
+               <lg>
+                  <l>Her <hi>Brutus Rome</hi> had not so long ador'd,</l>
+                  <l>If he had made himself Her Sov'raign Lord.</l>
+               </lg>
+            </q>
+            <p>Either King <hi>William</hi> is not our Sove<g ref="char:EOLhyphen"/>raign Lord, or the Comparison between him and <hi>Brutus</hi> is not adaquate. The City of <hi>Rome</hi> had from the Foundation of its
+<pb n="8" facs="tcp:206126:10"/> Empire, till <hi>Julius Caesar</hi>'s Time been a Free State, and had imbib'd an Hatred from its very Original against Kings, I cannot therefore but agree with our Au<g ref="char:EOLhyphen"/>thor, that if <hi>Brutus</hi> had cloath'd himself with the Soveraign Power, the <hi>Romans</hi> would not have had such a Love for his Memory, but how the Applicati<g ref="char:EOLhyphen"/>on comes to be made to us, I'm very far from knowing the reason, since 'tis very plain the Constitution of our Kingdom requires a Soveraign, and His present Majesty has actually accepted and invest<g ref="char:EOLhyphen"/>ed Himself with that Dignity.</p>
+            <q>
+               <lg>
+                  <l>And sure at Home, if thou wer't so severe,</l>
+                  <l>Thoud'st never labour for a Foreign Heir.</l>
+               </lg>
+            </q>
+            <p>The drift of this last Line, is to call in question the Justice of our present Settlement by Act of Parliament, and by Buzzing about, that the next Heir to the Crown after Her Royal Highness, is a Foreigner and of the House of <hi>Lunen<g ref="char:EOLhyphen"/>burgh,</hi> to make way for a Commonwealth. And this he has the Impudence to say in the next Line but one, he expects from <hi>William</hi>'s Love., but it's thought His Ma<g ref="char:EOLhyphen"/>jesty loves his nearest Relations a great deal better than Mr. <hi>Toland.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>High Heav'n alone shall o're thy Buildings sway,</l>
+                  <l>And that alone be fairer thought than they.</l>
+               </lg>
+            </q>
+            <pb n="9" facs="tcp:206126:10"/>
+            <p> Here our <hi>Poet</hi> takes the Gift of Pro<g ref="char:EOLhyphen"/>phecy upon him, but does it in such terms, that the <hi>Wind and Weather Man,</hi> Dr. <hi>Gustavus Parker</hi> would be asham'd of. Every body knew Heaven was <hi>high</hi> before he gave us to understand it; but what <hi>swaying over thy Buildings</hi> is, I know no more than the Man in the Moon. In short, he might have forborn talking of the Height of our Buildings, when the Royal Palace of <hi>White-Hall</hi> lies levell'd with the Ground.</p>
+            <q>
+               <lg>
+                  <l>—All Holy Cheats</l>
+                  <l>Of all Religions shall partake my Threats.</l>
+                  <l>Whither with Sable Gowns they show their Pride,</l>
+                  <l>Or under Cloaks their Knavery they hide.</l>
+               </lg>
+            </q>
+            <p>That may be, and not be a jot the worse for 'em. People, I thank God, begin to know <hi>Toland</hi> pretty well, and he may threaten till his Heart ach's before any one will take notice of it. However, he has shew'd us what a Champion of the Truth he is, when he falls a reviling the Mes<g ref="char:EOLhyphen"/>sengers of the onely True God, and is for burning His Temples, as the Villain did that of <hi>Diana</hi> at <hi>Ephesus,</hi> only to be talk'd of. I knew indeed, Mr. <hi>Toland</hi> had an Aversion to Episcopacy, and the Establish'd Church of <hi>England,</hi> but ne<g ref="char:EOLhyphen"/>ver heard before he was fall'n out with
+<pb n="10" facs="tcp:206126:11"/> Hypocrisy, or had shaken hands with his fromer Regards for the formal Gentle<g ref="char:EOLhyphen"/>men with short Cloaks, who not long since had him in their Service.</p>
+            <q>
+               <lg>
+                  <l>RELIGION's safe with <hi>Priest-craft</hi> is the War.</l>
+                  <l>All Friends to Priest-craft, Foes to Mankind are.</l>
+               </lg>
+            </q>
+            <p>By <hi>Priest-craft</hi> is meant serving God in his Ordinances, and by <hi>Religion,</hi> an irregu<g ref="char:EOLhyphen"/>lar Scheme without any Matters of Faith in it beyond what his Reason can explain to him; so that the <hi>last</hi> might well be safe, when none but such as he, would meddle with it; and he might well have a <hi>War</hi> with the <hi>first,</hi> when it taught such a Purity of Belief, as ran counter to the Impurity of his, which is, that the Friends to God, are the Foes to his Creatures.</p>
+            <q>
+               <lg>
+                  <l>When I've perform'd these feats, new Danger calls</l>
+                  <l>From Earth I'll soar, and scale <hi>High</hi> Heavens Walls,</l>
+                  <l>To pull false Gods from thence, that Men may see</l>
+                  <l>There's but One true, all perfect <hi>DEITY.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>Now our Spark's for <hi>soaring,</hi> when, tho' he is not so swag-belly'd as Father <hi>Dominick,</hi> yet, his Guts, like his, were ne<g ref="char:EOLhyphen"/>ver made for <hi>Mounting.</hi> But there's no danger of his reaching Heav'n while he continues obstinate in such Principles as
+<pb n="11" facs="tcp:206126:11"/> bear no Communication with it. How<g ref="char:EOLhyphen"/>ever, he's for renewing the Giants War, and like another <hi>Tiphoeus,</hi> is for scaling Heav'ns Walls, which he's in the right of it again, for calling <hi>High.</hi> I could wish Mr. <hi>Toland</hi> did not furnish us with the following Explication of these four Lines, <hi>(viz.)</hi> That when he had de<g ref="char:EOLhyphen"/>bauch'd his Votaries from their Faith and Allegiance, he would question the Being of our Soveraign Lord, God Almighty, in his Trinity and Unity, and dethrone the Second and Third Persons in it. If this be not his Opinion, and the Sense of his words, I ask his pardon, but I am sure 'tis that of the <hi>Deists,</hi> which abominable Sect he's not altogether a Stranger to,</p>
+            <q>
+               <lg>
+                  <l>With Forms, and Postures He is never pleas'd,</l>
+                  <l>Nor is his Wrath with Bribes to be appeas'd.</l>
+               </lg>
+            </q>
+            <p>Good again! He himself has taught us a Form to pray by, and yet is offend<g ref="char:EOLhyphen"/>ed at our making use of it. If God is a<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y with us, it matters not if we sue for Pardon, and deprecate the Vengeance we are threatned with: He's too just a Judge to take Bribes, that is, accept the Sorrows of a true Penitent, as he has promis'd us in his holy Word, and it's impossible for Him after He is once pro<g ref="char:EOLhyphen"/>vok'd
+<pb n="12" facs="tcp:206126:12"/> to be appeas'd. This is robbing God of His Chiefest Attribute His Mer<g ref="char:EOLhyphen"/>cy, and flinging every one into a State of Damnation; For without doubt, there is no Man living but has offended his Maker some time or other. This is a Scheme of believing with a witness, and credat <hi>Ju<g ref="char:EOLhyphen"/>deus Appelles,</hi> for neither I nor any ratio<g ref="char:EOLhyphen"/>nal Being can.</p>
+            <q>
+               <lg>
+                  <l>To those dark shades I'll introduce the Day,</l>
+                  <l>And the <hi>Vain</hi> Terrors of Hell's Court display,</l>
+               </lg>
+            </q>
+            <p>Having storm'd the Gates of Heav'n, the next thing he does is to make a visit to the Devil, and dispossess him likewise of his Authority. He's a Fiend indeed fit enough to supply his place, but I doubt, not prevailing enough to rob him of his Post. And tho' I cannot prove any such Local place in Being, as this of <hi>Fire</hi> and <hi>Brimstone</hi> is, yet since God has spoken of it by the Mouth of His Prophets; and our Saviour Himself has made use of the Terrors of it, in order to our Salva<g ref="char:EOLhyphen"/>tion, I give an implicit Belief to the Sa<g ref="char:EOLhyphen"/>cred Writ, which he questions the Truth of, and which may bring him to those Punishments he may wish too late, he had not spoken so slightly of.</p>
+            <q>
+               <lg>
+                  <pb n="13" facs="tcp:206126:12"/>
+                  <l>Legions of Fiends to Attoms I'll reduce,</l>
+                  <l>And leave bad Men no Tempter for Excuse.</l>
+               </lg>
+            </q>
+            <p>This is a Confirmation in express terms of what went before; and as he deny'd the <hi>Punishment</hi> there, here he actually declares there are no such Beings as the <hi>Punishers,</hi> and takes the part of a Sceptical Divine, who said that <hi>Eve</hi> had no such thing as a Tempter, but that the Depravity of her own Nature (tho' God had made her without Sin) caus'd her to rob the Tree of Life, and original Sin was born with the World, not the after growth of One who was the most Beau<g ref="char:EOLhyphen"/>tiful part of it.</p>
+            <q>
+               <lg>
+                  <l>And Fools will mend when Abler Men exhort:</l>
+                  <l>Or by strict Laws are kept from doing Hurt.</l>
+               </lg>
+            </q>
+            <p>I wish this were applicable to himself, and he would hearken to the Advice of the Scripture he despises, or else our Par<g ref="char:EOLhyphen"/>liament would handle him as they did in a place which gives Birth to no Vene<g ref="char:EOLhyphen"/>mous Insects, but yet was the place of this poisonous Creature's Nativity, that the strictness of their Laws may tie up his Hands from doing hurt, and dispersing such Doctrines as are contrary to sound Truth, and take all manner of occasion
+<pb n="14" facs="tcp:206126:13"/> to dilate their Infection amongst such as are remiss in providing against 'em.</p>
+            <q>
+               <lg>
+                  <l>So shall my Words like Thunder-bolts be hurl'd,</l>
+                  <l>And will confound, or mend the erring World.</l>
+               </lg>
+            </q>
+            <p>As he before rob'd God of His Mercy, so now he has made bold with another of His Attributes, which is His Justice; and having got the Thunder-bolt in his Hand, he's for breathing new Souls into his Fellow Creatures, or if they have a mind to keep their old ones, he's for dis<g ref="char:EOLhyphen"/>patching them, and making way for his <hi>Creating</hi> Pen (as he calls it) to form o<g ref="char:EOLhyphen"/>thers. But whatever he may think, I'm of opinion, <hi>mending</hi> is none of his Pro<g ref="char:EOLhyphen"/>vince, tho' <hi>confounding</hi> may; and if he had the Gift of Reformation, he has so many Faults of his own to employ him<g ref="char:EOLhyphen"/>self at <hi>home,</hi> that he need not go out in search of Business. <hi>abroad.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>But when from Cares and Publick Business free,</l>
+                  <l>Bright VICTORINA, my lov'd Theme shall be,</l>
+                  <l>The softest words the sweetest things will tell,</l>
+                  <l>And all I write or speak be <hi>fine</hi> and <hi>well.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>That is as much as to say, when he drops the pursuit of doing ill, which is his Business, to mend the Matter, he be<g ref="char:EOLhyphen"/>takes himself to his Mistress; and tho'
+<pb n="15" facs="tcp:206126:13"/> he us'd rough Expressions, as Thunder-bolts, <hi>&amp;c.</hi> to frighten the Men into Vice, <hi>Victorina</hi> is such a perverse, cunning Baggage, that she'll not be driven; but he must speak <hi>fine</hi> and <hi>well,</hi> if he would bring her upon the Couch of Iniquity. A sign he has a better Opinion of the Fair Sex than his own; and that he does not pretend he has spoken well of his new System of Religion, when all his <hi>fine</hi> Words are kept in Reserve, to make a Convert of his <hi>Bona Roba</hi> with.</p>
+            <q>
+               <lg>
+                  <l>But her dear Image calms my raging Breast,</l>
+                  <l>All should be still to lodge so fair a Guest.</l>
+               </lg>
+            </q>
+            <p>Let me tell you, we are more behold<g ref="char:EOLhyphen"/>ing to his Love than we are to his Elo<g ref="char:EOLhyphen"/>quence, the last was gotten into such a fit of raving and blustring in Heroicks, that we should all have been flung upon our Backs by the force of it, had not the first interpos'd, and hush'd the Storm-Well, I hope next time he falls a thun<g ref="char:EOLhyphen"/>dring, his Mistress will come in his Head, to prevent the Effects of it, and lay that Evil Spirit of his which hurry's him a<g ref="char:EOLhyphen"/>way to his own destruction; for I'm per<g ref="char:EOLhyphen"/>suaded it's much better to be a <hi>Whore-Master</hi> than a <hi>Deist.</hi>
+            </p>
+            <q>
+               <lg>
+                  <pb n="16" facs="tcp:206126:14"/>
+                  <l>Thus far I spoke; and <hi>CLITO</hi> all approv'd,</l>
+                  <l>Except what last was said of Her I lov'd.</l>
+               </lg>
+            </q>
+            <p>Had I been in <hi>CLITO's</hi> place, I should have had another Opinion, and approv'd of what he said of his Mistress, much better than what he spoke of his God. When he speaks of the first, he's all over Obedience and Reverence, but when he makes mention of the last, he seems pos<g ref="char:EOLhyphen"/>sest with the Spirit of Rebellion, and looks as if he rose in defiance against Him that created him. As for his Lady, I know her not, and she may be Virtuous, as he gives us his Word, she is; But for himself, he may be assur'd it's none of his Fault, if she be not downright Vi<g ref="char:EOLhyphen"/>tious.</p>
+            <p>Thus I have sent you my Thoughts of the Present you made me; and should at the same time, give you my Senti<g ref="char:EOLhyphen"/>ments of <hi>Fuller</hi>'s Narrative, had not I already swell'd 'em beyond the Bulk of a single Letter. You may expect my Ob<g ref="char:EOLhyphen"/>servations next Post on the <hi>Trifler</hi> in <hi>Prose,</hi> as you now have those dispatch'd to you on the <hi>Pains-taker</hi> in <hi>Verse.</hi> In the mean time, take these Observations on the Poetical Man of Eloquence with the rest▪ He's a <hi>Poet</hi> without <hi>Versifica<g ref="char:EOLhyphen"/>cation,</hi>
+               <pb n="17" facs="tcp:206126:14"/> an <hi>Orator</hi> without <hi>Elocution,</hi> a <hi>Disputant</hi> without <hi>Reason,</hi> a <hi>Subject</hi> with<g ref="char:EOLhyphen"/>out <hi>Obedience,</hi> a <hi>Boaster</hi> without <hi>Perfor<g ref="char:EOLhyphen"/>mance;</hi> and the Body of his Poem has as little an agreement with the Title of it, as his way of living bears proportion to the Name he bears of a Christian; and he may write himself a <hi>Deist,</hi> as long as he pleases, I am satisfied his manner of writing shews him little better than an <hi>Atheist.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Astrop.</hi>
+                  <date>Octob. 12. 1700.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours,</hi> &amp;c. <hi>S. F.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="critique">
+            <pb n="18" facs="tcp:206126:15"/>
+            <head>REMARKS UPON Fuller's <hi>Plain Proof,</hi> &amp;c.</head>
+            <p>TO keep my word with you, I have gone through the fatigue of rea<g ref="char:EOLhyphen"/>ding the dullest Book in Nature, with the least appearance of Truth in it that ever saw the Light. Our Au<g ref="char:EOLhyphen"/>thor gives it the Title of <hi>Plain Proof,</hi> but I durst to be sworn his Readers will give it another Name, and will agree with me, that he has so little <hi>made out</hi> the Matter in dis<g ref="char:EOLhyphen"/>pute, that he has more <hi>perplext</hi> the Cause than ever. Without doubt this <hi>Fuller</hi> might have done some Service for the present Government, but I have no reason to con<g ref="char:EOLhyphen"/>clude that the Duke of <hi>Shrewsbury</hi> gave him the Certificate he impudently puts at the back of his Title, for his bringing the Birth of the Prince of <hi>Wales</hi> to light; and tho' I should be as glad to have him prov'd an Impostor as any <hi>Englishman</hi> living, yet you must excuse me, if I suspend my Belief of an Assertion which is Mid<g ref="char:EOLhyphen"/>wif'd
+<pb n="19" facs="tcp:206126:15"/> into the World by a Person of his Character. I have read his Life too late<g ref="char:EOLhyphen"/>ly to be in love with his manner of Liv<g ref="char:EOLhyphen"/>ing; and since <hi>Truth's</hi> are often question<g ref="char:EOLhyphen"/>ed from Men who have known Talents at Lying, you must not think me an In<g ref="char:EOLhyphen"/>fidel if I don't give Credit to a <hi>Lye,</hi> that comes from a known <hi>Lyar.</hi> There's no dispute but the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men are highly oblig'd to him; but if they have giv'n him a Penny, which I suppose he wrote his Dedication for, they have return'd the Obligation more than threefold on his Head, and kept his <hi>strong Mountain which bids defiance to all its opposers,</hi> sometime longer than it would otherwise from dwindling into a <hi>Mole-Hill.</hi> Sir <hi>Richard Levet</hi> and his Right Worshipful Brethren have more sense, than to beleive what the House of Lords, and the Honourable the Commons, would not give Credit to; and tho' they are such good Protestants as to be sticklers in good Earnest against Popery, yet the cause of Religion is of it self so good an Argu<g ref="char:EOLhyphen"/>ment for keeping this young Gentleman still at St. <hi>Germains,</hi> that they have no need of having recourse to a <hi>Fuller</hi> to keep 'em steady and unshaken in their present Loyalty, or have any occasion of laying hold on <hi>Illegitimacy</hi> to support
+<pb n="20" facs="tcp:206126:16"/> their Pretensions when the preservations of their Laws, Liberties, and all that's dear to 'em, are sufficient Pleas in favour of their Conduct. As for my own part, tho' I'm a better Subject than this Affidavit Man, yet I can never believe his Depo<g ref="char:EOLhyphen"/>sitions till they are back▪d by those of as many noble Persons, as those about the Truth of the Prince's Birth were; and if I forbear giving Credit to him, 'tis not so much for the P—sake, as for his own, who is so great a stranger to any thing that looks like Truth.</p>
+            <p>In his Preface he begins with the Re<g ref="char:EOLhyphen"/>ports that our <hi>English</hi> Travellers make of this Unfortunate young Gentleman's At<g ref="char:EOLhyphen"/>chievements, and the hopes the Roman Ca<g ref="char:EOLhyphen"/>tholicks have beyond Sea of establishing him and their Religion yet in these King<g ref="char:EOLhyphen"/>doms. As for the first, some young Gentle<g ref="char:EOLhyphen"/>men are more sprightly than others, and I should be glad if he were of as common Birth, as <hi>Fuller</hi> reports him to be of, so he was <hi>English</hi> Born, to hear of any Fel<g ref="char:EOLhyphen"/>low Subject's Improvement; and for the last, I've a better Opinion of the Roman Catholicks Prudence, than that they should tell a known Enemy and Spy, they design'd to Sing High Mass shortly in St. <hi>Paul</hi>'s Cathedral, but am apt to fancy Mr. <hi>Fuller</hi> has been in some Goal
+<pb n="21" facs="tcp:206126:16"/> or other, rather than a holding Disputes at <hi>Antwerp,</hi> or a travelling in the Countries at Home, Cheating His Majesty's Subjects, than conversing with Father <hi>Sabran,</hi> or <hi>Hunter</hi> beyond the Seas. Nothing more seem's material in the Preface than the Reason he gives for not publishing this dull Pamphlet sooner, and that is, be<g ref="char:EOLhyphen"/>cause he expected a Hearing before the Lords, which they Honourably refus'd him, and rather serv'd for an Argu<g ref="char:EOLhyphen"/>ment to forward the Suppression of such Scandalous Papers, than their Publica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Having found my way through the <hi>Porch,</hi> 'tis but necessary I should take some small Entertainment in the <hi>House,</hi> and here the first Course is a Narrative to pick at, which has all the Positive Assur<g ref="char:EOLhyphen"/>ance of Matters of Fact, while the second is an Epistolary Desert, with the resem<g ref="char:EOLhyphen"/>blance of something that looks as much like nothing as can be. He tells you he was <hi>deliver'd</hi> of a small Narrative about the Prince's <hi>Birth</hi> four Years ago; that a Man of Quality gave himself the Trouble of Answering it, and examining the Fea<g ref="char:EOLhyphen"/>tures of this Brat of his Brain; and that the Noble Person who has made a Fool of him, was a Gentleman so well known among the Citizens of <hi>London,</hi> that he
+<pb n="22" facs="tcp:206126:17"/> can't take up Goods without Ready Mo<g ref="char:EOLhyphen"/>ney. When he might have said, he him<g ref="char:EOLhyphen"/>self was so well known, that no one could call in question the Truth of what that Worthy Person alledg'd against him. But I cannot but say this in his behalf, that the small Number of his <hi>Affidavits</hi> shew he has more Modesty in making Oath than his Predecessor <hi>T. O. D. D.</hi> of Famous Memory, who stretch'd his <hi>Pagan</hi> Lungs much beyond Number 6; and the Simplicity and Incredibility of 'em are such, that it's full as hard to believe the One, as 'twas formerly to take off People from giving Credit to the Other. To go on with his Depositions. 1. He's ready to Swear with all his Heart and Soul, when any Body will take his Oath, That the Countess of <hi>Tyrconnel,</hi> brought over two Big-Belly'd Women, in <hi>May</hi> 1688. with her, in the <hi>Monmouth</hi> Yatch, Capt. <hi>Wright</hi> Commander. 2. He avers upon his Soul, that one of these two Big-belly'd Women, fell to pieces at an Inn in St. <hi>Albans.</hi> 3. He avers again, as he hopes to be sav'd, the other Lady, who was not so near her Time, and could carry her Burthen farther, got safe to <hi>London,</hi> and was lodg'd in St. <hi>James</hi>'s Palace in two Rooms joyning to the Mar<g ref="char:EOLhyphen"/>chioness of <hi>Powis</hi>'s; and upon his unque<g ref="char:EOLhyphen"/>stionable
+<pb n="23" facs="tcp:206126:17"/> Veracity, her Name was Mrs. <hi>Mary Grey.</hi> 4. That the said Mrs. <hi>Mary Grey,</hi> fell into Labour on <hi>Saturday</hi> the 9th of <hi>June</hi> in the same Year, 1688; That Mrs. <hi>Wilks</hi> was brought to her, and that the Queen came instantly to St. <hi>James</hi>'s, and pretended of a sudden to be in the same Condition; and Mrs. <hi>Grey</hi> being de<g ref="char:EOLhyphen"/>liver'd, the Child was carried in a Warm<g ref="char:EOLhyphen"/>ing-Pan by Mrs. <hi>Labbady</hi> (which he actu<g ref="char:EOLhyphen"/>ally saw, by all that's good) through the narrow Gallery into the Back Room, next to that where the Queen lay. 5. To keep his Hand in at <hi>Averring,</hi> he avers that this same Mrs. <hi>Grey,</hi> and no Body else in her Skin, was sent away three Weeks after her Delivery, and that too by Command to <hi>Dover,</hi> in a Coach and six Horses, accompany'd by Father <hi>Lewis Sabran,</hi> the Marchioness of <hi>Powis</hi>'s Wo<g ref="char:EOLhyphen"/>man, and the said Juror's own dear self; and that one Father <hi>Grey,</hi> a Secular Priest of <hi>Calice,</hi> met her there, and took her with him in the Pacquet Boat to <hi>Calice,</hi> and from thence to the Benedictine Nun<g ref="char:EOLhyphen"/>nery at <hi>Paris.</hi> 6. To conclude and pin the Basket, he makes use of his own Word, and <hi>avers</hi> again, that the Lady was true Flesh and Blood, and did not care to end her Days in a Nunnery; wherefore she made a Breach in the Wall,
+<pb n="24" facs="tcp:206126:18"/> and made her Escape from her Confine<g ref="char:EOLhyphen"/>ment, but in three days, after great Search, she was found, and sent back to the Cloister, to mumble over her Beads a<g ref="char:EOLhyphen"/>gain.</p>
+            <p>These are the Six plain Proofs our <hi>Ductor Dubitantium</hi> has giv'n us of the young Prince's Illegitimacy; which, tho' they are not worthy of Reply, are thus expos'd as trivial, and as so many propo<g ref="char:EOLhyphen"/>sitions without consequences. (1.) Sup<g ref="char:EOLhyphen"/>pose two Gentlewomen with Child did actually come over with my Lady <hi>Tyrcon<g ref="char:EOLhyphen"/>nel,</hi> does that Argue that the Coun<g ref="char:EOLhyphen"/>tess brought 'em over for the use of the Queen? Certainly Her Majesty had no occasion to send to <hi>Ireland</hi> for <hi>Breeders,</hi> when so many young People were play<g ref="char:EOLhyphen"/>ing the Fool under Her Nose, and un<g ref="char:EOLhyphen"/>derstood the Act of <hi>Generation</hi> as well as any Teague-lander whatsoever. (2.) 'Tis highly improbable if such a Design was in hand, and nothing would content our then Sovereign Lady but an <hi>Irish</hi> Bant<g ref="char:EOLhyphen"/>ling, that the Countess should pick out Women so near their Time, as that one of 'em should cry out at St. <hi>Albans</hi> in her way to <hi>London,</hi> and the other lie down in less than a Month after at St. <hi>James's</hi> 3. Take it for granted, that she was brought to and lodg'd in St. <hi>James</hi>'s Palace,
+<pb n="25" facs="tcp:206126:18"/> over my Lady <hi>Stricland</hi>'s Lodgings, <hi>&amp;c.</hi> Her Lodgings were at too great a distance from her Majesty's, and very disagreea<g ref="char:EOLhyphen"/>ble to the intended Design. For the Child was brought hot from the Body, which could never be, had it been born such a distance from the Queen's Appart<g ref="char:EOLhyphen"/>ment. Their Majesties Physicians made Oath in <hi>Chancery;</hi> That the After-birth was reeking, and how that could be af<g ref="char:EOLhyphen"/>ter its being brought through two Cham<g ref="char:EOLhyphen"/>bers, the Narrow Gallery, and Her Ma<g ref="char:EOLhyphen"/>jesty's Anti-Chamber; those who under<g ref="char:EOLhyphen"/>stand the Nature of it, and how soon it cools, cannot imagine. 4. The Devil must needs owe Mrs. <hi>Labbady</hi> a Shame, if after Matters were so <hi>closely</hi> concerted, as he would make us believe, she could be so impudent as to carry the Child in the Warming-Pan <hi>openly</hi> before a young Fel<g ref="char:EOLhyphen"/>low, who at those Years was so far from <hi>keeping</hi> a Secret, as he is now from being <hi>trusted</hi> with one. 5. Let him <hi>aver</hi> his Heart out, that she went in a Coach and Six Horses to <hi>Dover,</hi> he shall never bring me to conclude from thence, that the P—of <hi>Wales</hi> his <hi>Mother</hi> was sent into a Nunnery. I'll be plain with him, it seems very improper to me, that a fair Lady, who had taken her Leave of Man's Flesh, and was retiring into a Convent,
+<pb n="26" facs="tcp:206126:19"/> should take such a Lustful young Rogue with her as he was, in the Coach by way of <hi>Mortification.</hi> 6. Had the young Prince been her Son, and she such a Ten<g ref="char:EOLhyphen"/>der Mother of Him, she would (after her Escape from the Nunnery) made what haste she could to St. <hi>Germains;</hi> but, tho' Father <hi>Sabran</hi>'s Letter says, she was so fond, she could not live from her Son, this Spark makes her otherwise, and so far from having her Bowels yearn after Him, that she takes to her Heels, and runs as fast as her Legs could carry her from the Sight of him.</p>
+            <p>Thus much for his six Affidavits, and I have nothing to do, except the taking Notice of one thing, before I make en<g ref="char:EOLhyphen"/>quiry into his Seven Letters, and two <hi>Irish</hi> Certificates; and that is, the Rea<g ref="char:EOLhyphen"/>sons why Mrs. <hi>Grey</hi> was murder'd. She was put to Death, he says, because she should not discover her Son to be the Prince of <hi>Wales,</hi> and so break the Mea<g ref="char:EOLhyphen"/>sures of the Court. If this be not <hi>Argu<g ref="char:EOLhyphen"/>mentum ab imbecisiori,</hi> I am highly mi<g ref="char:EOLhyphen"/>staken. For to suppose a Woman to be a Mother of a Child, fond of it to the last degree, desirous of his Welfare, <hi>&amp;c.</hi> and yet at the same time to repine at his Preferment, and discover her Son's Birth, tho' given out and receiv'd for a Branch
+<pb n="27" facs="tcp:206126:19"/> of the Blood Royal, are as inconsistent as Falshood is with Truth, or a Person of <hi>Fuller</hi>'s Character, with one who has an Abomination for <hi>Fuller</hi>'s Forgeries.</p>
+            <p>But I spend too much Time upon what does not deserve my notice, and its alto<g ref="char:EOLhyphen"/>gether proper to keep my word with you, after having given you a promise of what I could wish I had made no men<g ref="char:EOLhyphen"/>tion of, <hi>i. e.</hi> to Communicate my thoughts of the Letters, whether they are genuine or no. Believe it, Sir, I perform this Task very unwillingly, as being in the Interest, of a Government he seems to Espouse, and which the D—of <hi>S—</hi>has giv<g ref="char:EOLhyphen"/>en under Hand, that this Fellow has been serviceable to, but as the People of <hi>England</hi> have no reason to be apprehen<g ref="char:EOLhyphen"/>sive of any danger from their Enemies, whilst they are under the Security of his present Majesty's Protection, and are shel<g ref="char:EOLhyphen"/>ter'd by his Sword, and govern'd by his Sceptre, we have no manner of need to make use of little Artifices for the defence of a Cause which has occasion for nothing but it's own Glory and Sincerity to sup<g ref="char:EOLhyphen"/>port it. Therefore I cannot be thought to side against my Country, if I declare the Letters which are any thing material, seem all written by one hand, tho' I question not he deliver'd those he speaks
+<pb n="28" facs="tcp:206126:20"/> of to King <hi>William,</hi> and swore heartily be<g ref="char:EOLhyphen"/>fore his Majesty, that they were genuine.</p>
+            <p>To begin with the Two first dire<g ref="char:EOLhyphen"/>cted, to the Lords <hi>Montgomery</hi> and <hi>Ca<g ref="char:EOLhyphen"/>stlemain.</hi> The Contents of 'em are the same in substance, and sent by the same Messenger of Integrity, <hi>William Fuller.</hi> And tho' we should be so favourable to him as to make no scruple at all in rela<g ref="char:EOLhyphen"/>tion to the Person that Penn'd 'em down, yet we have good reason to doubt whe<g ref="char:EOLhyphen"/>ther her Majesty if he wrote 'em, was so sollicitous about the recovery and flight of Mrs. <hi>Grey,</hi> for fear of discovering the true Mother of the Gentleman that goes by the Name of the P—of <hi>Wales.</hi> O<g ref="char:EOLhyphen"/>ther reasons of State might induce her to make enquiry after her, and it's so in<g ref="char:EOLhyphen"/>consistent with a Lady of any sparks of Christianity to desire any one to <hi>Assassinate</hi> her Eellow Creature, and at the same time address her self to <hi>Heav'n</hi> and <hi>Pray for Suc<g ref="char:EOLhyphen"/>cess</hi> in such a <hi>Hellish</hi> Affair, That I must needs be excus'd, if I say, this looks very much like <hi>Fuller,</hi> who first <hi>Forges</hi> a Matter, and afterwards abuses God's Holy name, by <hi>Swearing</hi> 'tis matter of Fact.</p>
+            <p>
+               <hi>Lett.</hi> 3. Being taken out of Mr. <hi>Crone's</hi> Pocket Book, and he afterwards convicted of High-Treason for the Contents of it and other Matters, I shall not call the Ju<g ref="char:EOLhyphen"/>stice
+<pb n="29" facs="tcp:206126:20"/> of the most equitable Court in the World in question, yet, though it shews Her late Majesty held a Correspondence with the Lord <hi>Montgomery</hi> by means of the Bearer who was under Sentence of Condemnation for it, I am apt to believe our Affairs were not so firmly established at that juncture, but His Majesty out of his great Wisdom would have caus'd the Letters which relate to Mrs. <hi>Grey</hi> to be made publick, in order to fix the Minds of some People, who at that time of day were bending towards the Belief of the aforesaid <hi>P—</hi>'s Legitimacy. One thing which I take particular Notice of in this Letter, is, that <hi>Fuller</hi> was trusted with Bills, and did not turn the Money to his own use.</p>
+            <p>
+               <hi>Lett.</hi> 4. Is written, as he says, by Fa<g ref="char:EOLhyphen"/>ther <hi>Sabran</hi> a Jesuit; let who will be the Author of it, I dare acquit <hi>Fuller</hi> with a safe Conscience, that he did not write it himself. It savours too much of Piety to be any thing of his Dictating; and there's too great an Air of Roguery in it not to be of his Contriving. In short, he might bring it to the late Queen of ever blessed Memory, for all that I know; but it seems a little odd (if it was found in the Dutchess of <hi>Tyrconnel</hi>▪s Trunk) that a Prince of such a penetrating Judgment
+<pb n="30" facs="tcp:206126:21"/> as his present Majesty is, should order a Business of such consequence to be en<g ref="char:EOLhyphen"/>trusted in the hands of one who had broke his Trust before in Betraying his Mi<g ref="char:EOLhyphen"/>stress, and to let it be unpublish'd till this time, when no Prince in Christen<g ref="char:EOLhyphen"/>dom disputes the Justice of His Majesty's Rightful and Lawful Title.</p>
+            <p>
+               <hi>Lett.</hi> 5. Has the Dutchess of <hi>Powis</hi>'s Name to it, and is pretended to be under her <hi>Hand,</hi> when it looks very much like the Product of our Man of Deposition's own <hi>Head:</hi> Tho' 'tis not done so art<g ref="char:EOLhyphen"/>fully as became a Man of his Invention; He should have made my Lady Dutchess to have spoken plainer; and since these two Ladies held such a free Correspon<g ref="char:EOLhyphen"/>dence together to have cloath'd his Meaning with less ambiguous terms. Tho' I am very ready to conclude, that an Affair of this Nature would scarce be trust<g ref="char:EOLhyphen"/>ed to any thing but Cyphers; and that notwithstanding he pretends it was taken out of the Dutchess of <hi>Tyrconnel</hi>'s Trunk, it had seen the Light sooner, had not he put it there.</p>
+            <p>
+               <hi>Lett.</hi> 6. Shews the dull Mr. <hi>Fuller</hi>'s Head had been employ'd in Counter<g ref="char:EOLhyphen"/>feiting the Ingenious Mr. <hi>Carryl</hi>'s Hand. That unfortunate Gentleman is too well known for his Stile, to address a Lady
+<pb n="31" facs="tcp:206126:21"/> of Quality in that nature; and tho' some People who know how to Forge Bills, <hi>&amp;c.</hi> may give us something not unlike his Hand, they may try long enough before they can reach up to the Perfe<g ref="char:EOLhyphen"/>ctions of his <hi>Head.</hi>
+            </p>
+            <p>
+               <hi>Lett.</hi> 7. Is far from being artfully con<g ref="char:EOLhyphen"/>triv'd, and may be genuine for all that I know, for there's nothing in it, but the Duke's <hi>Sorrows for his Kinswomans Mis<g ref="char:EOLhyphen"/>fortunes,</hi> his <hi>Thanks</hi> to the Dutchess of <hi>Powis</hi> for <hi>her good Offices,</hi> and his Pro<g ref="char:EOLhyphen"/>testations that he <hi>cannot comply with Mrs.</hi> Greys <hi>desires of obtaining a Rockers Place,</hi> because of <hi>her Disposition.</hi> Several other things might make her Request improper, besides a <hi>Mothers tenderness of Nature,</hi> which he will have it to be, and tho' the General Opinion has so startled me, that I lean very much after the Desires of knowing the Truth of this Gentleman's Original, who is so much talk'd of, yet the Character of our Author, his known Disingenuity, and the Contempt he has met with from Both Houses of Parliament, confirms me that it cannot be as he asserts, tho' I cannot tell but it may be as a great many others think. I wish heartily for a Light into the Matter, but it must come from another hand, if it expects a Reception.</p>
+            <pb n="32" facs="tcp:206126:22"/>
+            <p> As for the two <hi>Irish</hi> Squires, who be<g ref="char:EOLhyphen"/>gin their Letter with Mr. <hi>William Fuller.</hi> Sir, their Information has as little Au<g ref="char:EOLhyphen"/>thority over me, as their Wive's Certi<g ref="char:EOLhyphen"/>ficate; and I'm a Dog if I can think a Lady of the Dutchess of <hi>Tyrconnel</hi>'s Tem<g ref="char:EOLhyphen"/>per could so far pocket up the Injuries of the Marriage-Bed, as to Caress the Wo<g ref="char:EOLhyphen"/>men that had rob'd her of her Husband's Love, and not only pocket up a Rival's being with Child, but take a Voyage for <hi>England,</hi> to take care of her safe <hi>Deli<g ref="char:EOLhyphen"/>very.</hi> This is such a piece of Condescen<g ref="char:EOLhyphen"/>tion, your Termegant Wife nor mine would ever submit to; and tho' <hi>Fuller</hi> has made the <hi>Dutchess</hi> give 'em this Presi<g ref="char:EOLhyphen"/>dent, the way to have our houses pull'd down upon our heads, is for us to follow the <hi>Duke</hi>'s.</p>
+            <p>I would have t'other fling at this piece of Ridicule, but I am affraid I have said enough to make me lose my Interest with you, and get the Name of a <hi>Jacobite,</hi> than which nothing is more contemptible to</p>
+            <closer>
+               <dateline>
+                  <hi>Astrop</hi>
+                  <date>
+                     <hi>14th Octob.</hi> 1700.</date>
+               </dateline>
+               <salute>Sir</salute>
+               <signed>
+                  <hi>Yours,</hi> &amp;c. <hi>S. F.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:206126:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
